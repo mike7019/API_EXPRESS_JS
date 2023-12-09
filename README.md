@@ -10,14 +10,6 @@ Npm >=6.x (comes with Node.js)
 # Installation
 Clone the repository:
 
-git clone https://ProductoAutomatizacion@dev.azure.com/ProductoAutomatizacion/Arquitectura/_git/API_ExpressJS
-
-sometimes will ask for an authentication. you will cancel the first auth window, then close the second auth window and on the Git Bash will request a password. heres the password
-
-m7kg5bv2pvaqbbaw6ejzgy7a6s5nxinxskqv35tmmbtb7fvd4arq
-
-it has to be copied and pasted with right click over Git Bash, it wont display the password but will be there and just hit enter and will clone the project.
-
 # Change into the project directory using Git Bash console:
 
 cd project-name
@@ -67,5 +59,5 @@ it will display the API documentation with the Swagger GUI and will be easy to t
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-# License
-Choucair Cardenas Testing.
+# creator
+Michael Garzon
