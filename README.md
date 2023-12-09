@@ -59,5 +59,5 @@ it will display the API documentation with the Swagger GUI and will be easy to t
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-# creator
-Michael Garzon
+# contact
+Me
